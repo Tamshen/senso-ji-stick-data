@@ -6,4 +6,4 @@
 
 ## 使用案例
 
-访问tamshen api -> [访问](https://api.cod.tamshen.com)
+访问tamshen api -> [访问](https://api.cod.tamshen.com#api002)
